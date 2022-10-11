@@ -1,4 +1,4 @@
-# wallpepper_app
+# wallpaper_app
 
 This is a simple wallpaper app, User can search images and download them on your mobile or set to wallpaper. Pixcels Api is used for this
 
